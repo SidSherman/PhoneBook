@@ -1,0 +1,15 @@
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\bin\Debug\net6.0\PhoneBook.exe
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\bin\Debug\net6.0\PhoneBook.deps.json
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\bin\Debug\net6.0\PhoneBook.dll
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\bin\Debug\net6.0\PhoneBook.pdb
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.dll
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\refint\PhoneBook.dll
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.pdb
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+H:\Projects\Repositories\C#\CSharpTasks\CSharp Task 7. Collection\CSharp Task 7\CSharp Task 7\obj\Debug\net6.0\ref\PhoneBook.dll
